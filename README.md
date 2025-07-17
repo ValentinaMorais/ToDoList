@@ -6,13 +6,13 @@ Um aplicativo simples de lista de tarefas para organizar seu dia a dia, feito co
 
 - Criar, editar e excluir tarefas  
 - Marcar tarefas como concluídas  
-- Persistência de dados (localStorage ou banco de dados)  
+- Persistência de dados
 - Interface limpa e responsiva  
 
 ## Tecnologias utilizadas
 
 - React  
-- Node.js + Express (opcional)  
+- Node.js + Express  
 - MongoDB / localStorage  
 
 ## Como rodar o projeto
